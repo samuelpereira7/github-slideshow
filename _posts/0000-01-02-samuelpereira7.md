@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.
 Use the left arrow to go back!
